@@ -1,0 +1,7 @@
+[FORMAT]
+max-line-length=80
+indent-string='    '
+
+[REFACTORING]
+max-statements=20
+max-nested-blocks=2
